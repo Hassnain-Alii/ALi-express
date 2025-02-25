@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-section-1-help {
+  display: flex;
+  justify-content: flex-end;
+  height: 50px;
+}
+
+.dropdown-ul {
+  list-style-type: none;
+}
